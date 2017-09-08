@@ -1,0 +1,7 @@
+C:\Aulas\Teste\ExemploWebApi\Aplication\bin\Debug\Aplication.dll
+C:\Aulas\Teste\ExemploWebApi\Aplication\bin\Debug\Aplication.pdb
+C:\Aulas\Teste\ExemploWebApi\Aplication\bin\Debug\Domain.dll
+C:\Aulas\Teste\ExemploWebApi\Aplication\bin\Debug\Domain.pdb
+C:\Aulas\Teste\ExemploWebApi\Aplication\obj\Debug\Aplication.csprojResolveAssemblyReference.cache
+C:\Aulas\Teste\ExemploWebApi\Aplication\obj\Debug\Aplication.dll
+C:\Aulas\Teste\ExemploWebApi\Aplication\obj\Debug\Aplication.pdb
